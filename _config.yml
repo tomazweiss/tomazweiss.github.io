@@ -139,7 +139,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/tomaz_weiss"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
@@ -155,6 +155,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/tomazweiss/"
 
 
 # Reading Files
