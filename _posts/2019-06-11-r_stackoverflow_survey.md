@@ -268,7 +268,7 @@ data_r %>%
 Bachelor’s degree holders report earning about 15% more than respondents
 without a degree (median difference). Master’s degree holders report
 earning about 9% more than respondents with bachelor’s degree.
-Ph.D. holders report earning about 18% than respondents with master’s
+Ph.D. holders report earning about 18% more than respondents with master’s
 degree.
 
 ### Undergraduate Major
