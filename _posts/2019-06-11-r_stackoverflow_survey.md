@@ -6,9 +6,9 @@ categories:
 tags:
   - R
   - salaries
+classes: wide
 ---
 
-================
 
 ## Introduction
 
