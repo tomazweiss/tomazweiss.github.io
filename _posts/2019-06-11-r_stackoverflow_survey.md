@@ -16,8 +16,8 @@ classes: wide
 Stackoverflow has recently released the anonymized results of their
 [2019 annual developer
 survey](https://insights.stackoverflow.com/survey). Let’s take a look on
-what R users are saying about their salaries. Note that the results that
-follow could be biased because of unrepresentative and in some cases
+what R users are saying about their salaries. Note that the following results
+could be biased because of unrepresentative and in some cases
 small samples.
 
 ## Data Preparation
@@ -317,8 +317,8 @@ engineering majors (ex. civil, electrical, mechanical).
 
 Note that each survey respondent had an option to pick more than one
 category here. Even though we removed students from the `MainBranch`
-variable at the beginning of the analysis, some developers still report
-being a student in the `DevType` variable.
+column at the beginning of the analysis, some developers still report
+being a student in the `DevType` column.
 
 ``` r
 # DevType
