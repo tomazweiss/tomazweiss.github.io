@@ -186,7 +186,7 @@ data_r %>%
                           "4" = "40-49", "5" = "50-59", "6" = "60-69"))
 ```
 
-<img src="R_users_salaries_from_stackoverflow_survey_files/figure-gfm/sal_age-1.png" style="display: block; margin: auto;" />
+<img src="{{site.url}}/assets/images/sal_age-1.png" style="display: block; margin: auto;" />
 The median of the second age group is is about 40% higher than the
 median of the first one. The median of the third age group is is about
 17% higher than the median of the second one. The median of the fourth
@@ -220,7 +220,7 @@ data_r %>%
   theme(plot.title = element_text(hjust = 0.5))
 ```
 
-<img src="R_users_salaries_from_stackoverflow_survey_files/figure-gfm/sal_gender-1.png" style="display: block; margin: auto;" />
+<img src="{{site.url}}/assets/images/sal_gender-1.png" style="display: block; margin: auto;" />
 Men report to earn about 15% higher median salary than women.
 
 ### Education Level
@@ -259,7 +259,7 @@ data_r %>%
   theme(plot.title = element_text(hjust = 0.5))
 ```
 
-<img src="R_users_salaries_from_stackoverflow_survey_files/figure-gfm/sal_edlevel-1.png" style="display: block; margin: auto;" />
+<img src="{{site.url}}/assets/images/sal_edlevel-1.png" style="display: block; margin: auto;" />
 Bachelor’s degree holders report earning about 15% more than respondents
 without a degree (median difference). Master’s degree holders report
 earning about 9% more than respondents with bachelor’s degree.
@@ -303,7 +303,7 @@ data_r %>%
   theme(plot.title = element_text(hjust = 0.5))
 ```
 
-<img src="R_users_salaries_from_stackoverflow_survey_files/figure-gfm/sal_undergradmajor-1.png" style="display: block; margin: auto;" />
+<img src="{{site.url}}/assets/images/sal_undergradmajor-1.png" style="display: block; margin: auto;" />
 Interestingly, the highest median salary is reported by “other”
 engineering majors (ex. civil, electrical, mechanical).
 
@@ -340,7 +340,7 @@ data_r %>%
   theme(plot.title = element_text(hjust = 0.5))  
 ```
 
-<img src="R_users_salaries_from_stackoverflow_survey_files/figure-gfm/sal_devtype-1.png" style="display: block; margin: auto;" />
+<img src="{{site.url}}/assets/images/sal_devtype-1.png" style="display: block; margin: auto;" />
 As expected, executives and managers earn the most and students earn the
 least.
 
