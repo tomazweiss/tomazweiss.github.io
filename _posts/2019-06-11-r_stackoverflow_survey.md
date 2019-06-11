@@ -150,7 +150,7 @@ data_r %>%
   scale_fill_discrete(name = "Continent")
 ```
 
-<img src="R_users_salaries_from_stackoverflow_survey_files/figure-gfm/sal_country-1.png" style="display: block; margin: auto;" />
+<img src="{{site.url}}/assets/images/sal_country-1.png" style="display: block; margin: auto;" />
 United States has the highest median annual salary at 110,000 USD,
 followed by Israel and Norway. The lower part of the graph is populated
 by Asian, South American and African countries.
