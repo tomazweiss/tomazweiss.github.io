@@ -159,8 +159,8 @@ by Asian, South American and African countries.
 
 ## Salary Distributions for United States
 
-Let’s have a look at R users’ salary distributions by some interesting
-variables for country with the highest number of respondents (1100).
+Let’s have a quick look at R users’ salary distributions by some interesting
+variables for country with the highest number of respondents (1,100).
 
 ### Age
 
@@ -311,7 +311,7 @@ data_r %>%
 <img src="{{site.url}}/assets/images/sal_undergradmajor-1.png" style="display: block; margin: auto;" />
 
 Interestingly, the highest median salary is reported by “other”
-engineering majors (ex. civil, electrical, mechanical).
+engineering majors (civil, electrical, mechanical).
 
 ### Developer Type
 
