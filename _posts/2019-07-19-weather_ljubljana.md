@@ -10,10 +10,10 @@ tags:
 classes: wide
 ---
 
-On a hot day, I created this data visualization:
+On a hot summer day, I re-created this data visualization:
 
 <img src="{{site.url}}/assets/images/weather_ljubljana_2019.png" style="display: block; margin: auto;" />
 
-The original visualization with R source code can be found [here](https://rpubs.com/bradleyboehmke/weather_graphic).
+The original with R source code can be found [here](https://rpubs.com/bradleyboehmke/weather_graphic).
 The historical weather data for Slovenia is available [here](http://meteo.arso.gov.si/met/sl/app/webmet).
 
