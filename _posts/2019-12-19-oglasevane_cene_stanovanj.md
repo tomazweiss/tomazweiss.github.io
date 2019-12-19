@@ -97,12 +97,12 @@ tabeli:
 
 | velikost   | mediana Ljubljana | mediana Maribor | povprečje Ljubljana | povprečje Maribor | razmerje median |
 | :--------- | ----------------: | --------------: | ------------------: | ----------------: | --------------: |
-| garsonjera |            98.000 |          42.000 |           101.597,6 |         44.154,49 |            2,33 |
-| 1-sobno    |           125.000 |          52.495 |           125.159,4 |         54.904,76 |            2,38 |
-| 1.5-sobno  |           133.000 |          59.000 |           133.884,3 |         62.459,46 |            2,25 |
-| 2-sobno    |           159.000 |          78.000 |           169.978,6 |         83.285,67 |            2,04 |
-| 2.5-sobno  |           180.000 |          89.250 |           192.457,9 |         91.476,11 |            2,02 |
-| 3-sobno    |           215.000 |         106.500 |           245.447,5 |        118.617,89 |            2,02 |
+| garsonjera |            98.000 |          42.000 |             101.598 |            44.154 |            2,33 |
+| 1-sobno    |           125.000 |          52.495 |             125.159 |            54.905 |            2,38 |
+| 1.5-sobno  |           133.000 |          59.000 |             133.884 |            62.459 |            2,25 |
+| 2-sobno    |           159.000 |          78.000 |             169.979 |            83.286 |            2,04 |
+| 2.5-sobno  |           180.000 |          89.250 |             192.458 |            91.476 |            2,02 |
+| 3-sobno    |           215.000 |         106.500 |             245.448 |           118.618 |            2,02 |
 
 Manjša stanovanja so v Ljubljani približno 2,3-krat dražja kot v
 Mariboru, večja stanovanja pa približno 2-krat.
@@ -123,12 +123,12 @@ stanovanja.
 
 | velikost   | mediana Ljubljana | mediana Maribor | povprečje Ljubljana | povprečje Maribor | razmerje median |
 | :--------- | ----------------: | --------------: | ------------------: | ----------------: | --------------: |
-| garsonjera |          3.484,19 |        1.551,02 |            3.532,22 |          1.511,46 |            2,25 |
-| 1-sobno    |          3.130,42 |        1.363,06 |            3.199,02 |          1.334,80 |            2,30 |
-| 1.5-sobno  |          3.000,00 |        1.348,84 |            3.046,82 |          1.312,34 |            2,22 |
-| 2-sobno    |          2.840,91 |        1.292,52 |            2.943,88 |          1.366,72 |            2,20 |
-| 2.5-sobno  |          2.771,54 |        1.272,94 |            2.896,71 |          1.295,37 |            2,18 |
-| 3-sobno    |          2.783,53 |        1.320,99 |            2.941,91 |          1.372,85 |            2,11 |
+| garsonjera |             3.484 |           1.551 |               3.532 |             1.511 |            2,25 |
+| 1-sobno    |             3.130 |           1.363 |               3.199 |             1.335 |            2,30 |
+| 1.5-sobno  |             3.000 |           1.349 |               3.047 |             1.312 |            2,22 |
+| 2-sobno    |             2.841 |           1.293 |               2.944 |             1.367 |            2,20 |
+| 2.5-sobno  |             2.772 |           1.273 |               2.897 |             1.295 |            2,18 |
+| 3-sobno    |             2.784 |           1.321 |               2.942 |             1.373 |            2,11 |
 
 Vidimo, da cena na kvadratni meter z velikostjo stanovanja pada,
 razmerja v cenah med krajema pa ostajajo podobna.
@@ -213,12 +213,12 @@ tabeli:
 
 | velikost   | mediana Ljubljana | mediana Maribor | povprečje Ljubljana | povprečje Maribor | razmerje median |
 | :--------- | ----------------: | --------------: | ------------------: | ----------------: | --------------: |
-| garsonjera |               450 |             265 |              451,12 |            281,71 |            1,70 |
-| 1-sobno    |               500 |             320 |              511,97 |            331,54 |            1,56 |
-| 1.5-sobno  |               585 |             335 |              591,99 |            348,12 |            1,75 |
-| 2-sobno    |               700 |             400 |              739,10 |            394,80 |            1,75 |
-| 2.5-sobno  |               750 |             500 |              793,99 |            490,59 |            1,50 |
-| 3-sobno    |               950 |             550 |            1.083,85 |            611,70 |            1,73 |
+| garsonjera |               450 |             265 |                 451 |               282 |            1,70 |
+| 1-sobno    |               500 |             320 |                 512 |               332 |            1,56 |
+| 1.5-sobno  |               585 |             335 |                 592 |               348 |            1,75 |
+| 2-sobno    |               700 |             400 |                 739 |               395 |            1,75 |
+| 2.5-sobno  |               750 |             500 |                 794 |               491 |            1,50 |
+| 3-sobno    |               950 |             550 |               1.084 |               612 |            1,73 |
 
 Razlike med krajema so pri oddaji manjše kot pri prodaji. Stanovanja so
 v Ljubljani približno 1,7-krat dražja kot v
@@ -322,9 +322,7 @@ Pri izračunu letnega donosa v predzadnjem stolpcu nismo upoštevali davka
 Letni donos v zadnjem stolpcu predpostavlja, da se za te stroške nameni
 35 % najemnine.
 
-
 ![]({{site.url}}/assets/images/donosi-1.png)<!-- -->
-<img src="{{site.url}}/assets/images/donosi-1.png" style="display: block; margin: auto; allign: left" /> <!-- -->
 
 Podatki potrjujejo [znano dejstvo](https://pro.finance.si/8862162), da
 je oddajanje donosnejše v Mariboru.
