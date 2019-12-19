@@ -322,7 +322,7 @@ Pri izračunu letnega donosa v predzadnjem stolpcu nismo upoštevali davka
 Letni donos v zadnjem stolpcu predpostavlja, da se za te stroške nameni
 35 % najemnine.
 
-<img src="{{site.url}}/assets/images/donosi-1.png" style="display: block; margin: auto;" />
+<img src="{{site.url}}/assets/images/donosi-1.png" style="display: block; margin: auto; align="left"" />
 
 Podatki potrjujejo [znano dejstvo](https://pro.finance.si/8862162), da
 je oddajanje donosnejše v Mariboru.
