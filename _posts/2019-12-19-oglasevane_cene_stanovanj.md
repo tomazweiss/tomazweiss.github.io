@@ -119,7 +119,7 @@ Maribor pa **1.070** evrov. Plače v Ljubljani so torej v povprečju **18
 Cene lahko izrazimo tudi kot cene na kvadratni meter
 stanovanja.
 
-<img src="blog-post-1_files/figure-gfm/lj_vs_mb_m2-1.png" style="display: block; margin: auto;" />
+<img src="{{site.url}}/assets/images/lj_vs_mb_m2-1.png" style="display: block; margin: auto;" />
 
 | velikost   | mediana Ljubljana | mediana Maribor | povprečje Ljubljana | povprečje Maribor | razmerje median |
 | :--------- | ----------------: | --------------: | ------------------: | ----------------: | --------------: |
@@ -143,7 +143,7 @@ enoto.
 
 #### Absolutna cena
 
-<img src="blog-post-1_files/figure-gfm/lj_po_ue-1.png" style="display: block; margin: auto;" />
+<img src="{{site.url}}/assets/images/lj_po_ue-1.png" style="display: block; margin: auto;" />
 
 Mediane cen po posameznih kombinacijah so
 naslednje:
@@ -206,7 +206,7 @@ oddajo.
 
 #### Absolutna cena
 
-<img src="blog-post-1_files/figure-gfm/lj_vs_mb_odd-1.png" style="display: block; margin: auto;" />
+<img src="{{site.url}}/assets/images/lj_vs_mb_odd-1.png" style="display: block; margin: auto;" />
 
 Točne vrednosti median in povprečij prikazanih skupin vidimo v naslednji
 tabeli:
@@ -226,7 +226,7 @@ Mariboru.
 
 #### Cena na kvadratni meter
 
-<img src="blog-post-1_files/figure-gfm/lj_vs_mb_m2_odd-1.png" style="display: block; margin: auto;" />
+<img src="{{site.url}}/assets/images/lj_vs_mb_m2_odd-1.png" style="display: block; margin: auto;" />
 
 | velikost   | mediana Ljubljana | mediana Maribor | povprečje Ljubljana | povprečje Maribor | razmerje median |
 | :--------- | ----------------: | --------------: | ------------------: | ----------------: | --------------: |
@@ -244,7 +244,7 @@ Za primerjavo so zgodovinske cene za oddajo v Ljubljani na voljo
 
 #### Absolutna cena
 
-<img src="blog-post-1_files/figure-gfm/lj_po_ue_odd-1.png" style="display: block; margin: auto;" />
+<img src="{{site.url}}/assets/images/lj_po_ue_odd-1.png" style="display: block; margin: auto;" />
 
 Mediane cen po posameznih kombinacijah so
 naslednje:
@@ -322,7 +322,7 @@ Pri izračunu letnega donosa v predzadnjem stolpcu nismo upoštevali davka
 Letni donos v zadnjem stolpcu predpostavlja, da se za te stroške nameni
 35 % najemnine.
 
-![](blog-post-1_files/figure-gfm/donosi-1.png)<!-- -->
+<img src="{{site.url}}/assets/images/donosi-1.png" style="display: block; margin: auto;" />
 
 Podatki potrjujejo [znano dejstvo](https://pro.finance.si/8862162), da
 je oddajanje donosnejše v Mariboru.
