@@ -53,10 +53,10 @@ Predpostavljamo, da zgornje pomanjkljivosti bistveno ne kvarijo slike
 trga. Opozoriti velja tudi, da gre tukaj za oglaševane in ne nujno za
 realizirane cene. Dejanske realizirane vrednosti kupoprodajnih poslov so
 dostopne v GURS-ovi [Evidenci trga
-nepremičnin](http://prostor3.gov.si/ETN-JV/). Veliko zanimivih
+nepremičnin](http://prostor3.gov.si/ETN-JV/){:target="_blank"}. Veliko zanimivih
 podatkov, ki izvirajo iz te evidence, najdemo v [periodičnih poročilih o
 slovenskem trgu
-nepremičnin](http://www.trgnepremicnin.si/sl/vsebine-portala/periodicna-porocila).
+nepremičnin](http://www.trgnepremicnin.si/sl/vsebine-portala/periodicna-porocila){:target="_blank"}.
 
 V analizi si bomo pogledali oglase za stanovanja v Ljubljani in v
 Mariboru. Cene se v izbranem obdobju niso opazno spreminjale. Spodnja
@@ -73,7 +73,7 @@ kombinacij. Skupaj je v vzorcu 12.105 oglasov.
 Vidimo lahko, da se je v Ljubljani pojavilo 5,6-krat več oglasov za
 prodajo in 7,3-krat več oglasov za oddajo kot v Mariboru. Razlika v
 številu prebivalcev teh dveh mest je približno
-[3-kratna](https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Slovenia).
+[3-kratna](https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Slovenia){:target="_blank"}.
 
 ## Prodaja
 
@@ -83,7 +83,7 @@ prodajo in 7,3-krat več oglasov za oddajo kot v Mariboru. Razlika v
 
 Porazdelitve cen bomo prikazali s t. i. grafom gostote verjetnosti (ang.
 density plot). To je zglajena zvezna verzija
-[histograma](https://en.wikipedia.org/wiki/Histogram), ocenjena iz
+[histograma](https://en.wikipedia.org/wiki/Histogram){:target="_blank"}, ocenjena iz
 podatkov. Na osi x so prikazane cene, višina krivulje pri posamezni ceni
 pa je sorazmerna deležu oglasov s to ceno. Z navpičnimi črtkanimi črtami
 označimo mediane posameznih
@@ -108,7 +108,7 @@ Manjša stanovanja so v Ljubljani približno 2,3-krat dražja kot v
 Mariboru, večja stanovanja pa približno 2-krat.
 
 Cene stanovanj lahko primerjamo s plačami. Po
-[podatkih](https://pxweb.stat.si/SiStatDb/pxweb/sl/10_Dem_soc/10_Dem_soc__07_trg_dela__10_place__01_07010_place/0701041S.px/)
+[podatkih](https://pxweb.stat.si/SiStatDb/pxweb/sl/10_Dem_soc/10_Dem_soc__07_trg_dela__10_place__01_07010_place/0701041S.px/){:target="_blank"}
 Statističnega urada je povprečna neto plača v obdobju med januarjem in
 avgustom 2019 v občini Ljubljana znašala **1.265** evrov, v občini
 Maribor pa **1.070** evrov. Plače v Ljubljani so torej v povprečju **18
@@ -134,7 +134,7 @@ Vidimo, da cena na kvadratni meter z velikostjo stanovanja pada,
 razmerja v cenah med krajema pa ostajajo podobna.
 
 Zgornje cene za Ljubljano lahko primerjamo z
-[zgodovinskimi](https://www.slonep.net/info/cene-nepremicnin/preglednica-cetrtletnih-cen-stanovanj-v-ljubljani).
+[zgodovinskimi](https://www.slonep.net/info/cene-nepremicnin/preglednica-cetrtletnih-cen-stanovanj-v-ljubljani){:target="_blank"}.
 
 ### Ljubljana po upravnih enotah
 
@@ -238,7 +238,7 @@ Mariboru.
 | 3-sobno    |             11,76 |            7,21 |               12,38 |              7,33 |            1,63 |
 
 Za primerjavo so zgodovinske cene za oddajo v Ljubljani na voljo
-[tukaj](https://www.slonep.net/info/cene-nepremicnin/preglednica-cetrtletnih-najemnin-stanovanj-v-ljubljani).
+[tukaj](https://www.slonep.net/info/cene-nepremicnin/preglednica-cetrtletnih-najemnin-stanovanj-v-ljubljani){:target="_blank"}.
 
 ### Ljubljana po upravnih enotah
 
@@ -324,5 +324,5 @@ Letni donos v zadnjem stolpcu predpostavlja, da se za te stroške nameni
 
 ![]({{site.url}}/assets/images/donosi-1.png)<!-- -->
 
-Podatki potrjujejo [znano dejstvo](https://pro.finance.si/8862162), da
+Podatki potrjujejo [znano dejstvo](https://pro.finance.si/8862162){:target="_blank"}, da
 je oddajanje donosnejše v Mariboru.
