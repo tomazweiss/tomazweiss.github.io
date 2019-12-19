@@ -11,7 +11,6 @@ tags:
 classes: wide
 ---
 
-================
 
   - [Podatki](#podatki)
   - [Prodaja](#prodaja)
@@ -90,7 +89,8 @@ pa je sorazmerna deležu oglasov s to ceno. Z navpičnimi črtkanimi črtami
 označimo mediane posameznih
 skupin.
 
-<img src="blog-post-1_files/figure-gfm/lj_vs_mb-1.png" style="display: block; margin: auto;" />
+<img src="{{site.url}}/assets/images/lj_vs_mb-1.png" style="display: block; margin: auto;" />
+
 
 Mediane in povprečja posameznih skupin prikažimo tudi v
 tabeli:
