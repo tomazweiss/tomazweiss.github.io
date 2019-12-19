@@ -54,7 +54,7 @@ trga. Opozoriti velja tudi, da gre tukaj za oglaševane in ne nujno za
 realizirane cene. Dejanske realizirane vrednosti kupoprodajnih poslov so
 dostopne v GURS-ovi [Evidenci trga
 nepremičnin](http://prostor3.gov.si/ETN-JV/){:target="_blank"}. Veliko zanimivih
-podatkov, ki izvirajo iz te evidence, najdemo v [periodičnih poročilih o
+podatkov, ki izvirajo iz te evidence, najdemo v [Periodičnih poročilih o
 slovenskem trgu
 nepremičnin](http://www.trgnepremicnin.si/sl/vsebine-portala/periodicna-porocila){:target="_blank"}.
 
@@ -111,7 +111,7 @@ Cene stanovanj lahko primerjamo s plačami. Po
 [podatkih](https://pxweb.stat.si/SiStatDb/pxweb/sl/10_Dem_soc/10_Dem_soc__07_trg_dela__10_place__01_07010_place/0701041S.px/){:target="_blank"}
 Statističnega urada je povprečna neto plača v obdobju med januarjem in
 avgustom 2019 v občini Ljubljana znašala **1.265** evrov, v občini
-Maribor pa **1.070** evrov. Plače v Ljubljani so torej v povprečju **18
+Maribor pa **1.070** evrov. Plače v Ljubljani so torej v povprečju za **18
 %** višje kot v Mariboru.
 
 #### Cena na kvadratni meter
