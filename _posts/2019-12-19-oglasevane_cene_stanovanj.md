@@ -31,9 +31,9 @@ nepremičninskega portala.
 
 Podatki so bili pridobljeni med marcem in novembrom 2019. Pri tem je
 bila uporabljena skipta, napisana v programskem jeziku
-[R](https://www.r-project.org/) (paket
-[`rvest`](http://rvest.tidyverse.org/)) in schedulirana v Amazonovem
-oblaku [(AWS EC2)](https://aws.amazon.com/ec2/) na virtualnem Linux
+[R](https://www.r-project.org/){:target="_blank"} (paket
+[`rvest`](http://rvest.tidyverse.org/){:target="_blank"}) in schedulirana v Amazonovem
+oblaku [(AWS EC2)](https://aws.amazon.com/ec2/){:target="_blank"} na virtualnem Linux
 strežniku, ki je vsak večer s portala pobirala nove oglase.
 
 V tako pridobljenih podatkih so prisotne določene pomanjkljivosti:
