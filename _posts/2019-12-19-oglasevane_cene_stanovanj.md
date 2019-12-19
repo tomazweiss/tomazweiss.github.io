@@ -92,7 +92,7 @@ skupin.
 <img src="{{site.url}}/assets/images/lj_vs_mb-1.png" style="display: block; margin: auto;" />
 
 
-Mediane in povprečja posameznih kombinacij prikažimo še v
+Prikažimo mediane in povprečja posameznih kombinacij še v
 tabeli:
 
 | velikost   | mediana Ljubljana | mediana Maribor | povprečje Ljubljana | povprečje Maribor | razmerje median |
