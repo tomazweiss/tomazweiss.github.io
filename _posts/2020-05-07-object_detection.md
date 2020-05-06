@@ -246,7 +246,7 @@ d %>% knitr::kable()
 
 <div class="figure">
 
-<img src="blog img/dog.jpg" alt="dog.jpg" width="60%" />
+<img src="{{site.url}}/assets/images/dog.jpg" alt="dog.jpg" width="60%" />
 
 <p class="caption">
 
@@ -258,7 +258,7 @@ dog.jpg
 
 <div class="figure">
 
-<img src="blog img/test_image.jpg" alt="test_image.jpg" width="60%" />
+<img src="{{site.url}}/assets/images/test_image.jpg" alt="test_image.jpg" width="60%" />
 
 <p class="caption">
 
