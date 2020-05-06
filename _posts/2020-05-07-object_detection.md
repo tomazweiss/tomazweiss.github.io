@@ -262,7 +262,7 @@ dog.jpg
 
 <p class="caption">
 
-test\_image.jpg
+test_image.jpg
 
 </p>
 
