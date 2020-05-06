@@ -9,7 +9,6 @@ tags:
   - darknet
 classes: wide
 ---
-
 ## Package image.darknet
 
 Computer vision is becoming more and more accessible. One simple way to
