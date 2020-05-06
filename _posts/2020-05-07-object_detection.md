@@ -29,7 +29,7 @@ below.
 
 <div class="figure">
 
-<img src="blog img/test_image.jpg" alt="Photo by Justin Sullivan/Getty Images" width="60%" />
+<img src="{{site.url}}/assets/images/test_image.jpg" alt="Photo by Justin Sullivan/Getty Images" width="60%" />
 
 <p class="caption">
 
