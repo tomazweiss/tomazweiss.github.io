@@ -196,7 +196,7 @@ tweets %>%
 ![]({{site.url}}/assets/images/earthquake4.png)<!-- --> 
 
 Here the order of countries is a bit different than before. A reason for this is
-most probably a smaller sample of tweets with country or city
+most probably a smaller sample of tweets with location
 information.
 
 
