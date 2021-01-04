@@ -11,9 +11,8 @@ classes: wide
 ---
 
 There was a strong
-[earthquake](https://en.wikipedia.org/wiki/2020_Petrinja_earthquake){:target="_blank"} on
-29. 12. 2020 in Croatia that was felt all over the region. Let’s see how
-people tweeted about it.
+[earthquake](https://en.wikipedia.org/wiki/2020_Petrinja_earthquake){:target="_blank"} on 29. 12. 2020 
+in Croatia that was felt all over the region. Let’s see how people tweeted about it.
 
 ## Download the Tweets
 
@@ -108,7 +107,7 @@ tweets_num_by_time %>%
        )
 ```
 
-![](blog_post_files/figure-gfm/unnamed-chunk-6-1.png)<!-- -->
+![]({{site.url}}/assets/images/earthquake2.png)<!-- -->
 
 ## Time Differences Between Reactions of Countries
 
@@ -152,8 +151,8 @@ tweets %>%
        )
 ```
 
-![](blog_post_files/figure-gfm/unnamed-chunk-7-1.png)<!-- --> As we can
-see, the order of countries approximately corresponds to their distance
+![]({{site.url}}/assets/images/earthquake3.png)<!-- --> 
+As we can see, the order of countries approximately corresponds to their distance
 from the epicenter.
 
 Twitter API also returns a column `location` which can be used to better
@@ -193,8 +192,8 @@ tweets %>%
        )
 ```
 
-![](blog_post_files/figure-gfm/unnamed-chunk-8-1.png)<!-- --> Here the
-order of countries is a bit different than before. A reason for this is
+![]({{site.url}}/assets/images/earthquake4.png)<!-- --> 
+Here the order of countries is a bit different than before. A reason for this is
 most probably a smaller sample of tweets with country or city
 information.
 
