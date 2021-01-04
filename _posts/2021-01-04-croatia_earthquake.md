@@ -114,12 +114,12 @@ tweets_num_by_time %>%
 The last chart already gives us an idea about the order of reactions to
 earthquake by country. Let’s take a more detailed look at this.
 
-First let’s draw a “scatterplot” of individual tweets by the query
+First, let’s draw a “scatterplot” of individual tweets by the query
 keyword and their time of posting. Each dot represents a tweet and some
 vertical jitter has been added to get a better sense about their
 distributions. (Very few tweets contain keywords from different
 languages. Therefore we won’t make a big mistake if we define user’s
-location with the `case_when` statement.)
+language with the `case_when` statement.)
 
 ``` r
 tweets %>% 
@@ -159,7 +159,7 @@ from the epicenter.
 Twitter API also returns a column `location` which can be used to better
 identify the user’s country of residence. For most tweets, however, this
 column is empty. Some tweets also contain the country or city
-information in the `text` field. Let’s use these columns and draw a
+information in the `text` field. Let’s use these columns to draw a
 similar chart as above.
 
 ``` r
@@ -198,6 +198,41 @@ tweets %>%
 Here the order of countries is a bit different than before. A reason for this is
 most probably a smaller sample of tweets with country or city
 information.
+
+
+
+## First Tweets
+
+``` r
+first_tweets <- 
+  tweets %>% 
+  filter(created_at >= as.POSIXct("2020-12-29 11:19:54", tz = 'UTC'),
+         created_at <= as.POSIXct("2020-12-29 11:20:53", tz = 'UTC')
+  ) %>% 
+  select(created_at, screen_name, text, source, location) %>% 
+  arrange(created_at)
+
+first_tweets %>% knitr::kable()
+```
+
+| created\_at         | screen\_name     | text                                                                                                                                                                                                                                               | source              | location                                                                                                                                                                                               |
+| :------------------ | :--------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2020-12-29 11:20:08 | *Homosomes*      | dahir insaat emergency earthquake death sarcophagus                                                                                                                                                                                                | Twitter for Android | the overlook                                                                                                                                                                                           |
+| 2020-12-29 11:20:11 | SismoDetector    | \[11:20:09 UTC\] Maribor \#potres moguć je za 10 sekundi. Idite na <https://t.co/hNdHhYeXVG> da biste primili upozorenje na svom pametnom telefonu                                                                                                 | Earthquake Network  |                                                                                                                                                                                                        |
+| 2020-12-29 11:20:12 | SismoDetector    | \[11:20:09 UTC\] Snažan \#potres otkriven na 2 km od \#Zagreb, \#Hrvatska. Preuzmite aplikaciju Earthquake Network s <https://t.co/hNdHhYeXVG> da biste u stvarnom vremenu primali upozorenja na svom pametnom telefonu. <https://t.co/pcJ3rZRaAK> | Earthquake Network  |                                                                                                                                                                                                        |
+| 2020-12-29 11:20:32 | TjasaZavrh       | Potres                                                                                                                                                                                                                                             | Twitter Web App     | Slovenia                                                                                                                                                                                               |
+| 2020-12-29 11:20:32 | bakuenken        | OH GOD AN EARTHQUAKE                                                                                                                                                                                                                               | Twitter for Android |                                                                                          |
+| 2020-12-29 11:20:34 | NVEarthquakes    | Magnitude 1.6 \#earthquake, 8.4 km NW of Verdi, NV <https://t.co/oDCHHJ9jc5>                                                                                                                                                                       | NVSeismoLab         | Reno, NV                                                                                                                                                                                               |
+| 2020-12-29 11:20:34 | amne\_earthquake | \<U+C0AC\>\<U+C2A4\>\<U+CF00\>..?? \<U+ADF8\>\<U+AC8C\> \<U+BB34\>\<U+C2A8\> \<U+B0A0\>\<U+C774\>\<U+C5EC\>                                                                                                                                        | Twitter for Android |  |
+| 2020-12-29 11:20:34 | DaRealTomoyo     | EARTHQUAKE. AGAIN..                                                                                                                                                                                                                                | Twitter Web App     | Yes.                                                                                                                                                                                                   |
+| 2020-12-29 11:20:35 | andrazk          | Potres\!                                                                                                                                                                                                                                           | Tweetbot for Mac    | Ljubljana, Slovenia                                                                                                                                                                                    |
+| 2020-12-29 11:20:45 | KatarinaJenko    | Potres                                                                                                                                                                                                                                             | Twitter for iPhone  | Ljubljana                                                                                                                                                                                              |
+| 2020-12-29 11:20:45 | pikapok38002423  | Uf….ravno trese… potres                                                                                                                                                                                                                            | Twitter Web App     |                                                                                                                                                                                                        |
+| 2020-12-29 11:20:48 | legambits        | YALL THERE WAS A HUGE EARTHQUAKE                                                                                                                                                                                                                   | Twitter for Android | 22 she/her                                                                                                                                                                                             |
+| 2020-12-29 11:20:50 | forcebook        | Potres                                                                                                                                                                                                                                             | Twitter for Android | Knin                                                                                                                                                                                                   |
+| 2020-12-29 11:20:50 | nedzaid          | Potres - Konjodor Bužim. Dobro se zatreslo.                                                                                                                                                                                                        |                     |                                                                                                                                                                                                        |
+
+
 
 ## Session Info
 
