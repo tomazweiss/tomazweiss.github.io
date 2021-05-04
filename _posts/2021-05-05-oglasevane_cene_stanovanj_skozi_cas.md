@@ -1,5 +1,15 @@
-Oglaševane prodajne cene stanovanj skozi čas
-================
+---
+title: "Oglaševane prodajne cene stanovanj skozi čas"
+excerpt_separator: "<!--more-->"
+categories:
+  - blog
+tags:
+  - R
+  - ggplot2
+  - real estate
+  - nepremicnine
+classes: wide
+---
 
 Višanje cen nepremičnin je zadnje čase aktualna tema, zato si poglejmo,
 kako se to odraža v nepremičninskih oglasih.
