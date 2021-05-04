@@ -67,32 +67,32 @@ stanovanja.
 Opozorilo: na grafih, ki sledijo, se skala na osi y namenoma ne začne
 pri 0.
 
-#### Ljubljana, okolica Ljubljane in Maribor
+### Ljubljana, okolica Ljubljane in Maribor
 
 ![]({{site.url}}/assets/images/lj_okolica_mb-1.png)<!-- -->
 
 
-#### Ljubljana glede na tip stanovanja
+### Ljubljana glede na tip stanovanja
 
 ![]({{site.url}}/assets/images/lj_tip-1.png)<!-- -->
 
-#### Ljubljana glede na del mesta
+### Ljubljana glede na del mesta
 
 ![]({{site.url}}/assets/images/lj_del_mesta-1.png)<!-- -->
 
-#### Ljubljana glede na tip stanovanja in del mesta
+### Ljubljana glede na tip stanovanja in del mesta
 
 ![]({{site.url}}/assets/images/lj_tip_del_v1-1.png)<!-- -->
 
 ![]({{site.url}}/assets/images/lj_tip_del_v2-1.png)<!-- -->
 
-#### Ljubljana glede na letnico gradnje
+### Ljubljana glede na letnico gradnje
 
 Tukaj so oglasi razdeljeni v pet približno enako velikih skupin.
 
 ![]({{site.url}}/assets/images/lj_letnica-1.png)<!-- -->
 
-#### Ljubljana glede na vrsto ponudbe (zasebna/agencija)
+### Ljubljana glede na vrsto ponudbe (zasebna/agencija)
 
 Oglasov iz zasebne ponudbe je 18%. Razlike med skupinama niso nujno
 neposredno povezane z vrsto ponudbe oz. z vrsto oglaševalca; lahko gre
