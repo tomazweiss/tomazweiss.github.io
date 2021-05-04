@@ -103,7 +103,7 @@ za posredne vplive drugih lastnosti oglaševanih stanovanj.
 ## Komentarja
 
 -   Pri interpretaciji teh grafov je potrebno biti previden. Sprememba
-    mediane oglašavanih cen pri neki kombinaciji atributov ne pomeni
+    mediane oglaševanih cen pri neki kombinaciji atributov ne pomeni
     spremembe cen vseh takšnih stanovanj. Možno je namreč, da so se v
     tistem obdobju v večji meri oglaševala stanovanja, pri katerih nek
     tretji atribut govori v prid tej spremembi. Konkreten primer bi
