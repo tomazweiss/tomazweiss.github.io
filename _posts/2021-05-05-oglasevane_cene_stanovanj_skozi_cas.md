@@ -105,9 +105,9 @@ za posredne vplive drugih lastnosti oglaševanih stanovanj.
 -   Pri interpretaciji teh grafov je potrebno biti previden. Sprememba
     mediane oglašavanih cen pri neki kombinaciji atributov ne pomeni
     spremembe cen vseh takšnih stanovanj. Možno je namreč, da so se v
-    tistem odbobju v večji meri oglaševala stanovanja, pri katerih nek
-    tretji atribut govori v prid tej spremembi. Konkreten primer bi npr.
-    bil dvig in padec cen v Mostah poleti 2020, ki je posledica večjega
+    tistem obdobju v večji meri oglaševala stanovanja, pri katerih nek
+    tretji atribut govori v prid tej spremembi. Konkreten primer bi
+    bil npr. dvig in padec cen v Mostah poleti 2020, ki je posledica večjega
     oglaševanja novogradenj v tem delu mesta.
 -   Nekatere krivulje lahko v celoti oz. na določenem odseku temeljijo
     na manjšem vzorcu in zato dogajanja na trgu ne prikazujejo najbolje.
