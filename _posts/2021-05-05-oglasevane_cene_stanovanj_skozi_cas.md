@@ -50,7 +50,7 @@ dogajanje v kakšnem krajšem zanimivem obdobju preveč zakrito.
 Z namenom, da stanovanja, ki po ceni preveč izstopajo, oz. napake v
 podatkih ne bi preveč zakrivili slike, prikazujemo mediane in ne
 povprečij objavljenih cen. Vrednost, ki je pri nekem datumu torej
-prikazana, predstavlja mediano cen v vseh oglasih, ki so bili prvič
+prikazana, predstavlja mediano cen v vseh novih oglasih, ki so bili
 objavljeni v 12-tedenskem obdobju, ki se konča na ta dan.
 
 Kot rečeno, pred analizo izločimo oglase z zelo visoko oz. zelo nizko
