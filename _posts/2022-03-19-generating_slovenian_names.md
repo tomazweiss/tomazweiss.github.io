@@ -11,7 +11,6 @@ tags:
   - NLP
 classes: wide
 ---
-
 ## Generative Deep Learning
 
 Recurrent neural networks can be used to generate sequence data such as
@@ -23,7 +22,7 @@ for generating original company, brand or product names.
 
 This project was inspired by [this
 talk](https://www.youtube.com/watch?v=g2bQJIth1-I){:target="_blank"} by Jacqueline Nolis
-and the code was mostly “stolen” from [this Github
+and the code was mostly “stolen” from [this GitHub
 repo](https://github.com/nolis-llc/pet-names){:target="_blank"}.
 
 ## Data Preparation
@@ -283,7 +282,6 @@ generate_many_new_names <- function(n = 10, model, character_lookup, max_length,
 ```
 
 ## Results
-
 
 ### Temperature = 0.2
 
