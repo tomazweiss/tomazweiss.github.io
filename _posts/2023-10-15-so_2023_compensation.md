@@ -17,7 +17,7 @@ hidden: true
 Exploring data from the [Stack Overflow Developer Survey 2023](https://survey.stackoverflow.co/2023/){:target="_blank"}.
 Exchange rates from 2023-06-02 were used for conversion to USD.
 
-![]({{site.url}}/assets/images/so_2023_compensation.png)<!-- -->
+[![]]({{site.url}}/assets/images/so_2023_compensation.png)<!-- -->
 
 ## Code
 
