@@ -14,12 +14,16 @@ hidden: true
 ---
 
 
-Exploring data from the [Stack Overflow Developer Survey 2023](https://survey.stackoverflow.co/2023/){:target="_blank"}.
+Exploring data from the [Stack Overflow Developer Survey 2023](https://survey.stackoverflow.co/2023/){:target="_blank"} with simplified boxplots.
+
+Naturally, this survey data exhibits bias.
+Countries with less than 30 responses after applying all filters have been removed from the image.
 Exchange rates from 2023-06-02 were used for conversion to USD.
+
 
 [![so_2023_compensation]({{site.url}}/assets/images/so_2023_compensation.png)]({{site.url}}/assets/images/so_2023_compensation.png){:target="_blank"}
 
-## The code
+## The Code
 
 ``` r
 # renv::init()
