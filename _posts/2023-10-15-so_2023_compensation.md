@@ -18,7 +18,6 @@ Exploring data from the [Stack Overflow Developer Survey 2023](https://survey.st
 
 Naturally, this survey data exhibits bias.
 Countries with less than 30 responses after applying all filters have been removed from the image.
-Exchange rates from 2023-06-02 were used for conversion to USD.
 
 
 [![so_2023_compensation]({{site.url}}/assets/images/so_2023_compensation.png)]({{site.url}}/assets/images/so_2023_compensation.png){:target="_blank"}
@@ -98,7 +97,11 @@ fig <-
   coord_flip(ylim = c(0, 200000)) +
   scale_y_continuous(breaks = seq(0, 200000, by = 20000), 
                      labels = function(x) format(x, big.mark = ",", decimal.mark = '.', scientific = FALSE),
-                     expand = expansion(add = c(0, 5000))
+                     expand = expansion(add = c(0, 5000)),
+                     sec.axis = sec_axis(~ ., 
+                                         breaks = seq(0, 200000, by = 20000), 
+                                         labels = function(x) format(x, big.mark = ",", decimal.mark = '.', scientific = FALSE)
+                                         )
                      ) +
   labs(title = '2023 Developer Compensation by Country',
        subtitle = paste0('Showing data for full-time employed professional developers, excluding freelancers, part-time employees and students.\n',
