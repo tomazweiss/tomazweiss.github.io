@@ -16,7 +16,7 @@ hidden: true
 
 Exploring data from the [Stack Overflow Developer Survey 2023](https://survey.stackoverflow.co/2023/){:target="_blank"} with simplified boxplots.
 
-Naturally, this survey data exhibits bias.
+We must be aware that this survey data is biased.
 Countries with less than 30 responses after applying all filters have been removed from the image.
 
 
