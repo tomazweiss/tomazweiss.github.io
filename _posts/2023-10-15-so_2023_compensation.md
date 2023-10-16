@@ -106,7 +106,7 @@ fig <-
   labs(title = '2023 Developer Compensation by Country',
        subtitle = paste0('Showing data for full-time employed professional developers, excluding freelancers, part-time employees and students.\n',
                          'Each box starts at the 25th percentile and ends at the 75th percentile. The line inside the box shows the median compensation.\n',
-                        'Numbers in brackets next to country names represent sample sizes.')
+                        'Numbers in brackets next to country names represent sample sizes. Exchange rates date: 2023-06-02.')
        ) +
   # theme(plot.title.position = "plot") +
   scale_fill_discrete(name = "Continent") +
