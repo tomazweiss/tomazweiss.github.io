@@ -10,7 +10,6 @@ tags:
   - salaries
   - stackoverflow
 classes: wide
-hidden: true
 ---
 
 
