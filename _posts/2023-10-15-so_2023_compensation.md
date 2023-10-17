@@ -16,7 +16,7 @@ hidden: true
 
 Exploring data from the [Stack Overflow Developer Survey 2023](https://survey.stackoverflow.co/2023/){:target="_blank"} with simplified boxplots.
 
-We must be aware that this survey data is biased.
+We should be aware that this survey data is biased.
 Countries with less than 30 responses after applying all filters have been removed from the image.
 
 
@@ -119,10 +119,7 @@ fig <-
 fig
 
 ggsave('so_2023_compensation.png', plot = fig, width = 300, height = 300, units = 'mm', dpi = 'retina')
-
 ```
 
 ## GitHub
 [https://github.com/tomazweiss/stackoverflow_compensation_2023](https://github.com/tomazweiss/stackoverflow_compensation_2023){:target="_blank"}
-
-
