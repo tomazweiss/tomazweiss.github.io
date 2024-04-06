@@ -274,6 +274,10 @@ by Francois Chollet and J. J. Allaire:
 <a target="_blank"  href="https://www.amazon.com/gp/product/161729554X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=161729554X&linkCode=as2&tag=blog0a671-20&linkId=37fa19f4a2c364e6da93e52e57c47124"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=161729554X&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=blog0a671-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=blog0a671-20&l=am2&o=1&a=161729554X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 
+**Found this content interesting or useful? Fuel future articles with a coffee!**
+<a href="https://www.buymeacoffee.com/tomazweiss" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+
 ### Session Info
 
 ``` r
