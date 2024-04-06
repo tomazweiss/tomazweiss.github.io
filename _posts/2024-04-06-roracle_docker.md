@@ -1,5 +1,5 @@
 ---
-title: "Adding ROracle Package to rocker/tidyverse Docker Image"
+title: "Adding ROracle Package to the rocker/tidyverse Docker Image"
 excerpt_separator: "<!--more-->"
 categories:
   - blog
