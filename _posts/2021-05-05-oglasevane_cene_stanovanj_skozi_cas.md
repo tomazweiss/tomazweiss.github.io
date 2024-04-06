@@ -117,3 +117,6 @@ za posredne vplive drugih lastnosti oglaševanih stanovanj.
 ## Koda
 
 <https://github.com/tomazweiss/apartment_prices_over_time>{:target="_blank"}
+
+**Found this content interesting or useful? Fuel future articles with a coffee!**
+<a href="https://www.buymeacoffee.com/tomazweiss" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
