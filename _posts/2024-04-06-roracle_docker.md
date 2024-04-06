@@ -23,8 +23,8 @@ Before building the image, the user should create a subfolder `oracle` with the 
 - ROracle_1.4-1_R_x86_64-unknown-linux-gnu.tar.gz
 
 At the time of this writing, these files can be downloaded from:
-- https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html
-- https://www.oracle.com/database/technologies/roracle-downloads.html
+- [https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html](https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html){:target="_blank"}
+- [https://www.oracle.com/database/technologies/roracle-downloads.html](https://www.oracle.com/database/technologies/roracle-downloads.html){:target="_blank"}
 
 A free Oracle account may be required for access.
 Depending on your Oracle and R installations, different package versions may be needed.
