@@ -326,3 +326,7 @@ Letni donos v zadnjem stolpcu predpostavlja, da se za te stroške nameni
 
 Podatki potrjujejo [znano dejstvo](https://pro.finance.si/8862162){:target="_blank"}, da
 je oddajanje donosnejše v Mariboru.
+
+
+**Found this content interesting or useful? Fuel future articles with a coffee!**
+<a href="https://www.buymeacoffee.com/tomazweiss" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
