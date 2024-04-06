@@ -61,6 +61,6 @@ RUN R CMD INSTALL --configure-args='--with-oci-lib=/usr/lib/oracle/21/client64/l
 ## GitHub
 [https://github.com/tomazweiss/roracle_docker](https://github.com/tomazweiss/roracle_docker){:target="_blank"}
 
-[!["Buy Me A Coffee"](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/tomazweiss){:target="_blank"}
 
+**Found this content interesting or useful? Fuel future articles with a coffee!**
 <a href="https://www.buymeacoffee.com/tomazweiss" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
