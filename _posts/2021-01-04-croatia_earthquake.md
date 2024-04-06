@@ -199,6 +199,8 @@ Here the order of countries is a bit different than before. A reason for this is
 most probably a smaller sample of tweets with location
 information.
 
+**Found this content interesting or useful? Fuel future articles with a coffee!**
+<a href="https://www.buymeacoffee.com/tomazweiss" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## Session Info
 
@@ -240,6 +242,3 @@ sessionInfo()
     ## [41] pkgconfig_2.0.3  ellipsis_0.3.1   xml2_1.3.2       reprex_0.3.0    
     ## [45] assertthat_0.2.1 rmarkdown_2.6    httr_1.4.2       rstudioapi_0.13 
     ## [49] R6_2.5.0         compiler_4.0.2
-
-**Found this content interesting or useful? Fuel future articles with a coffee!**
-<a href="https://www.buymeacoffee.com/tomazweiss" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
