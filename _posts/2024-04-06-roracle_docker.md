@@ -14,7 +14,7 @@ classes: wide
 ROracle is an open source R package supporting a DBI-compliant Oracle driver based on the high performance OCI library. It enables highly scalable and performant connectivity to Oracle Database for data transfer.
 The installation of this package, however, can be a bit challenging. 
 
-This repo provides a Dockerfile, based on the rocker/tidyverse image, that adds ROracle package.
+This post provides a Dockerfile, based on the rocker/tidyverse image, that adds ROracle package.
 A similar script can be used to add this package to a non-dockerized Ubuntu system.
 
 Before building the image, the user should create a subfolder `oracle` with the following files:
