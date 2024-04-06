@@ -412,6 +412,9 @@ table have been generated.
 
 <https://github.com/tomazweiss/slovenian-name-generator>{:target="_blank"}
 
+**Found this content interesting or useful? Fuel future articles with a coffee!**
+<a href="https://www.buymeacoffee.com/tomazweiss" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 ## Session Info
 
 ``` r
