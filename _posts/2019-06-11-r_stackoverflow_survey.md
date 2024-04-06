@@ -356,6 +356,9 @@ least.
 I hope you found the above insights interesting. Feel free to experiment
 with this data by yourself and share your findings.
 
+**Found this content interesting or useful? Fuel future articles with a coffee!**
+<a href="https://www.buymeacoffee.com/tomazweiss" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 ## Session Info
 
 ``` r
