@@ -32,7 +32,7 @@ Depending on your Oracle and R installations, different package versions may be 
 
 ## Dockerfile
 
-``` lang-docker
+``` dockerfile
 FROM rocker/tidyverse:4.0.5
 
 LABEL purpose="Add ROracle package to rocker/tidyverse"
