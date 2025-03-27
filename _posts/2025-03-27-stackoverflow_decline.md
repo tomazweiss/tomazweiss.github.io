@@ -62,7 +62,7 @@ Conversely, topics related to operating systems (Windows, Android, and iOS) and 
 This could be due to the fact that questions in these areas frequently involve frontend and UI-related challenges or require visual 
 explanations with screenshots, elements where AI-generated responses still struggle to provide adequate support.
 
-A comprehensive interpretation of these results is left to readers with a deeper understanding of the listed technologies. 
+A more comprehensive interpretation of these results is left to readers with a deeper understanding of the listed technologies. 
 
 
 
