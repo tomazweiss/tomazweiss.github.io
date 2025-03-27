@@ -4,11 +4,14 @@ excerpt_separator: "<!--more-->"
 categories:
   - blog
 tags:
+  - stackoverflow
+  - AI
+  - LLM
+  - chatGPT
+  - programming
   - R
   - ggplot2
   - visualization
-  - salaries
-  - stackoverflow
 classes: wide
 ---
 
@@ -19,7 +22,7 @@ we'll explore the data behind Stack Overflow’s decline, comparing trends in qu
 after the introduction of ChatGPT and other LLMs.
 
 Other articles have explored this trend as well, such as [this](https://devclass.com/2025/01/08/coding-help-on-stackoverflow-dives-as-ai-assistants-rise/){:target="_blank"}
-analysis by DevClass () 
+analysis by DevClass
 and [this](https://blog.pragmaticengineer.com/are-llms-making-stackoverflow-irrelevant/){:target="_blank"} post by Pragmatic Engineer. 
 However, these discussions primarily focus on overall activity decline rather than specific changes in question tags. 
 In this post, we will take a closer look at which topics have been most affected by the shift to AI-driven assistance.
