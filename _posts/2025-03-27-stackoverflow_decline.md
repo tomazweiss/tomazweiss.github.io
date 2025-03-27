@@ -36,7 +36,7 @@ ChatGPT was publicly released. Prior to this, Stack Overflow had already been ex
 ChatGPT’s introduction, the rate of decline became much more pronounced as developers increasingly turned to AI for quick, 
 context-aware answers.
 
-[![so_timeseries]({{site.url}}/assets/images/so_2023_compensation.png)]({{site.url}}/assets/images/so_timeseries.png){:target="_blank"}
+[![so_timeseries]({{site.url}}/assets/images/so_timeseries.png)]({{site.url}}/assets/images/so_timeseries.png){:target="_blank"}
 
 
 ## Which Topics Are Affected the Most?
@@ -45,7 +45,7 @@ To better understand the impact, we analyzed how the number of questions for the
 changed by November 2024. While some topics have declined more than others, which is to be expected, there is an interesting
 pattern in these declines.
 
-[![so_decline]({{site.url}}/assets/images/so_2023_compensation.png)]({{site.url}}/assets/images/so_decline.png){:target="_blank"}
+[![so_decline]({{site.url}}/assets/images/so_decline.png)]({{site.url}}/assets/images/so_decline.png){:target="_blank"}
 
 What stands out is that questions related to fundamental programming concepts (such as lists, dictionaries, loops, strings, and functions) 
 and data analysis (including pandas, dataframes, arrays, SQL, and NumPy) have experienced the most significant declines.
